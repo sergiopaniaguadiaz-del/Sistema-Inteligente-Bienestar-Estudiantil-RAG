@@ -1,0 +1,42 @@
+VARIABLES MÁS IMPORTANTES DEL MODELO
+
+Este documento resume las variables con mayor peso en el modelo predictivo.
+Estas variables ayudan a explicar qué factores influyen más en la predicción del riesgo emocional.
+
+1. Variable: academic_performance
+   Importancia relativa: 0.15
+
+2. Variable: student_id
+   Importancia relativa: 0.13
+
+3. Variable: daily_social_media_hours
+   Importancia relativa: 0.12
+
+4. Variable: sleep_hours
+   Importancia relativa: 0.11
+
+5. Variable: screen_time_before_sleep
+   Importancia relativa: 0.09
+
+6. Variable: physical_activity
+   Importancia relativa: 0.09
+
+7. Variable: addiction_level
+   Importancia relativa: 0.06
+
+8. Variable: stress_level
+   Importancia relativa: 0.06
+
+9. Variable: age
+   Importancia relativa: 0.06
+
+10. Variable: social_interaction_level_high
+   Importancia relativa: 0.02
+
+
+Interpretación:
+Las variables con mayor importancia deben considerarse como factores relevantes para analizar el riesgo estudiantil.
+Estas variables pueden orientar intervenciones preventivas, análisis institucionales y estrategias de acompañamiento.
+
+Conclusión ejecutiva:
+El modelo identifica patrones asociados al bienestar digital, emocional, académico y conductual de los estudiantes.

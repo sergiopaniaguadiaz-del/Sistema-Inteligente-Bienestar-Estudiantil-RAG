@@ -1,0 +1,111 @@
+TENDENCIAS DE BIENESTAR ESTUDIANTIL POR EDAD
+
+Este documento resume patrones de ansiedad, sueño, uso de redes sociales y riesgo emocional por edad.
+
+
+Edad: 13.0
+Cantidad de estudiantes: 200.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.51
+- Horas de sueño: 6.49
+- Tiempo frente a pantalla antes de dormir: 1.62
+- Nivel de estrés: 5.46
+- Nivel de ansiedad: 5.56
+- Nivel de adicción digital: 5.74
+- Tasa de riesgo alto de ansiedad: 38.00%
+- Score promedio de riesgo: 0.48
+
+
+Edad: 14.0
+Cantidad de estudiantes: 153.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.35
+- Horas de sueño: 6.32
+- Tiempo frente a pantalla antes de dormir: 1.80
+- Nivel de estrés: 6.18
+- Nivel de ansiedad: 5.33
+- Nivel de adicción digital: 5.20
+- Tasa de riesgo alto de ansiedad: 37.00%
+- Score promedio de riesgo: 0.46
+
+
+Edad: 15.0
+Cantidad de estudiantes: 180.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.72
+- Horas de sueño: 6.49
+- Tiempo frente a pantalla antes de dormir: 1.68
+- Nivel de estrés: 5.13
+- Nivel de ansiedad: 5.92
+- Nivel de adicción digital: 5.28
+- Tasa de riesgo alto de ansiedad: 45.00%
+- Score promedio de riesgo: 0.49
+
+
+Edad: 16.0
+Cantidad de estudiantes: 163.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.64
+- Horas de sueño: 6.49
+- Tiempo frente a pantalla antes de dormir: 1.73
+- Nivel de estrés: 5.45
+- Nivel de ansiedad: 5.64
+- Nivel de adicción digital: 5.41
+- Tasa de riesgo alto de ansiedad: 42.00%
+- Score promedio de riesgo: 0.48
+
+
+Edad: 17.0
+Cantidad de estudiantes: 170.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.76
+- Horas de sueño: 6.51
+- Tiempo frente a pantalla antes de dormir: 1.75
+- Nivel de estrés: 5.17
+- Nivel de ansiedad: 5.58
+- Nivel de adicción digital: 5.78
+- Tasa de riesgo alto de ansiedad: 42.00%
+- Score promedio de riesgo: 0.48
+
+
+Edad: 18.0
+Cantidad de estudiantes: 172.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.24
+- Horas de sueño: 6.36
+- Tiempo frente a pantalla antes de dormir: 1.80
+- Nivel de estrés: 5.20
+- Nivel de ansiedad: 5.42
+- Nivel de adicción digital: 5.58
+- Tasa de riesgo alto de ansiedad: 41.00%
+- Score promedio de riesgo: 0.48
+
+
+Edad: 19.0
+Cantidad de estudiantes: 162.0
+
+Promedios observados:
+- Horas diarias en redes sociales: 4.52
+- Horas de sueño: 6.48
+- Tiempo frente a pantalla antes de dormir: 1.84
+- Nivel de estrés: 5.62
+- Nivel de ansiedad: 6.00
+- Nivel de adicción digital: 5.91
+- Tasa de riesgo alto de ansiedad: 44.00%
+- Score promedio de riesgo: 0.49
+
+
+Hallazgos principales:
+- La edad con mayor nivel promedio de ansiedad es 19.0, con un promedio de 6.00.
+- La edad con mayor tasa de riesgo alto de ansiedad es 15.0, con una tasa de 45.00%.
+- La edad con menor promedio de sueño es 14.0, con 6.32 horas promedio.
+- La edad con mayor uso promedio de redes sociales es 17.0, con 4.76 horas diarias.
+
+Conclusión ejecutiva:
+Las tendencias por edad permiten identificar grupos demográficos que podrían requerir mayor atención preventiva.

@@ -1,0 +1,34 @@
+RESUMEN DE ESTUDIANTES EN RIESGO
+
+Este documento resume los resultados individuales agregados del análisis de riesgo estudiantil.
+No se listan todos los estudiantes para evitar saturar el sistema RAG; se presentan estadísticas consolidadas.
+
+Total de estudiantes analizados:
+1200
+
+Estudiantes con riesgo alto real:
+494 estudiantes, equivalente a 41.17%
+
+Estudiantes con riesgo alto predicho por el modelo:
+454 estudiantes, equivalente a 37.83%
+
+Distribución por nivel de score de riesgo:
+
+- Medio: 1021 estudiantes, equivalente a 85.08%
+
+- Bajo: 178 estudiantes, equivalente a 14.83%
+
+- Alto: 1 estudiantes, equivalente a 0.08%
+
+
+Score de riesgo:
+- Score promedio: 0.48
+- Score mínimo: 0.33
+- Score máximo: 0.71
+
+Interpretación:
+El análisis permite identificar estudiantes con mayor probabilidad de presentar riesgo alto de ansiedad.
+Estos resultados pueden utilizarse para priorizar acciones preventivas de acompañamiento, siempre considerando que el modelo no sustituye una evaluación clínica o psicológica.
+
+Conclusión ejecutiva:
+El sistema permite transformar resultados individuales en información agregada útil para la Coordinación de Bienestar Estudiantil.

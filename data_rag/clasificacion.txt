@@ -1,0 +1,9 @@
+El modelo Random Forest obtuvo un accuracy de 87%.
+
+Las variables más importantes fueron:
+- Horas de sueño
+- Tiempo en redes sociales
+- Nivel de interacción social
+- Actividad física
+
+El modelo identificó correctamente estudiantes con alto riesgo de ansiedad.

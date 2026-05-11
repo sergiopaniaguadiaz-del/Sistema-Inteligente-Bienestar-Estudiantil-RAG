@@ -1,0 +1,28 @@
+MÉTRICAS DEL MODELO SUPERVISADO
+
+Este documento describe el desempeño del modelo predictivo utilizado para estimar riesgo alto de ansiedad.
+
+Modelo utilizado:
+Random Forest Classifier
+
+Variable objetivo:
+high_anxiety_risk
+
+Fecha del análisis:
+2026-05-09
+
+Resultados del modelo:
+- Accuracy: 56.67%
+- Precision: 46.67%
+- Recall: 35.35%
+- F1-score: 40.23%
+
+Resultado de sobreajuste:
+Posible sobreajuste
+
+Interpretación:
+El modelo permite identificar estudiantes con posible riesgo alto de ansiedad.
+Sin embargo, las métricas muestran un desempeño moderado, por lo que sus resultados deben utilizarse como apoyo a la toma de decisiones y no como diagnóstico definitivo.
+
+Conclusión ejecutiva:
+El modelo aporta valor como herramienta preventiva, pero requiere validación, mejora y monitoreo antes de utilizarse en decisiones críticas.

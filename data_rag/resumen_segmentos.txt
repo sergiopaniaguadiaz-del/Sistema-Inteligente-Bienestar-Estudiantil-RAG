@@ -1,0 +1,76 @@
+ANÁLISIS DE SEGMENTOS DE ESTUDIANTES
+
+Este documento resume los perfiles identificados mediante segmentación de estudiantes.
+Los segmentos permiten priorizar acciones preventivas de bienestar estudiantil.
+
+
+SEGMENTO: Bajo riesgo
+ID DEL SEGMENTO: 0
+NIVEL DE PRIORIDAD: Baja
+
+Cantidad de estudiantes: 166
+
+Características promedio del segmento:
+- Horas diarias en redes sociales: 3.28
+- Horas de sueño: 7.62
+- Tiempo frente a pantalla antes de dormir: 1.85
+- Desempeño académico: 2.88
+- Actividad física: 1.00
+- Nivel de estrés: 4.01
+- Nivel de ansiedad: 2.83
+- Nivel de adicción digital: 3.63
+- Proporción de riesgo alto de ansiedad: 4.00%
+
+Interpretación:
+Estudiantes con menor proporción de riesgo alto de ansiedad y hábitos relativamente más favorables.
+
+Implicación para bienestar estudiantil:
+Este segmento debe considerarse en la toma de decisiones preventivas según su nivel de prioridad.
+
+
+SEGMENTO: Riesgo medio
+ID DEL SEGMENTO: 1
+NIVEL DE PRIORIDAD: Media
+
+Cantidad de estudiantes: 198
+
+Características promedio del segmento:
+- Horas diarias en redes sociales: 6.18
+- Horas de sueño: 6.29
+- Tiempo frente a pantalla antes de dormir: 2.14
+- Desempeño académico: 3.19
+- Actividad física: 1.03
+- Nivel de estrés: 5.92
+- Nivel de ansiedad: 3.71
+- Nivel de adicción digital: 7.79
+- Proporción de riesgo alto de ansiedad: 13.00%
+
+Interpretación:
+Estudiantes con señales intermedias de riesgo que podrían beneficiarse de acciones preventivas generales.
+
+Implicación para bienestar estudiantil:
+Este segmento debe considerarse en la toma de decisiones preventivas según su nivel de prioridad.
+
+
+SEGMENTO: Riesgo alto
+ID DEL SEGMENTO: 2
+NIVEL DE PRIORIDAD: Alta
+
+Cantidad de estudiantes: 157
+
+Características promedio del segmento:
+- Horas diarias en redes sociales: 4.60
+- Horas de sueño: 5.38
+- Tiempo frente a pantalla antes de dormir: 1.39
+- Desempeño académico: 3.44
+- Actividad física: 0.61
+- Nivel de estrés: 5.55
+- Nivel de ansiedad: 5.06
+- Nivel de adicción digital: 3.25
+- Proporción de riesgo alto de ansiedad: 31.00%
+
+Interpretación:
+Estudiantes con mayor proporción de riesgo alto de ansiedad, por lo que representan el grupo de mayor prioridad preventiva.
+
+Implicación para bienestar estudiantil:
+Este segmento debe considerarse en la toma de decisiones preventivas según su nivel de prioridad.

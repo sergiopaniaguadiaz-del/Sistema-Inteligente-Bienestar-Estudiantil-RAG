@@ -1,0 +1,2 @@
+model_id,model_name,target_variable,accuracy,precision,recall,f1_score,overfitting_result,analysis_date
+1,Random Forest Classifier,high_anxiety_risk,0.5667,0.4667,0.3535,0.4023,Posible sobreajuste,2026-05-09

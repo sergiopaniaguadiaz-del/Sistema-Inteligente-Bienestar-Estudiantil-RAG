@@ -1,0 +1,40 @@
+ANÁLISIS DE SOBREAJUSTE DEL MODELO
+
+Este documento compara el desempeño del modelo en entrenamiento y prueba.
+El objetivo es identificar si el modelo generaliza correctamente o si presenta señales de sobreajuste.
+
+
+Métrica: accuracy
+- Resultado en entrenamiento: 88.12%
+- Resultado en prueba: 56.67%
+- Diferencia: 31.46%
+
+
+Métrica: precision
+- Resultado en entrenamiento: 87.07%
+- Resultado en prueba: 46.67%
+- Diferencia: 40.40%
+
+
+Métrica: recall
+- Resultado en entrenamiento: 83.54%
+- Resultado en prueba: 35.35%
+- Diferencia: 48.19%
+
+
+Métrica: f1_score
+- Resultado en entrenamiento: 85.27%
+- Resultado en prueba: 40.23%
+- Diferencia: 45.04%
+
+
+Hallazgo principal:
+La mayor diferencia se observa en la métrica recall, con una brecha de 48.19% entre entrenamiento y prueba.
+
+Interpretación:
+Una diferencia elevada entre entrenamiento y prueba indica posible sobreajuste.
+Esto significa que el modelo puede estar aprendiendo patrones específicos del conjunto de entrenamiento y perdiendo capacidad de generalización sobre datos nuevos.
+
+Conclusión ejecutiva:
+El modelo es útil como aproximación inicial, pero debe mejorarse antes de considerarse plenamente robusto.
+Se recomienda revisar variables, ajustar hiperparámetros, balancear clases y validar con nuevos datos.

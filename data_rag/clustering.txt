@@ -1,0 +1,10 @@
+El clustering identificó tres segmentos principales de estudiantes.
+
+Segmento 0:
+Estudiantes con bajo uso de redes sociales, mejores hábitos de sueño y menor riesgo de ansiedad.
+
+Segmento 1:
+Estudiantes con uso intensivo de redes sociales, pocas horas de sueño y alto riesgo de ansiedad.
+
+Segmento 2:
+Estudiantes con actividad física moderada y riesgo medio.
